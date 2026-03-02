@@ -1,0 +1,4 @@
+data.txt
+*.svg
+!logout-02.svg
+*.png
